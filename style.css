@@ -241,7 +241,9 @@ nav span {
     margin: 30px;
     padding: 30px;
   }
-
+  .my-ambition {
+    flex-direction: column;
+  }
   .my-aim-content{
     text-align: center;
   }
@@ -272,6 +274,10 @@ nav span {
   .hero, .reasons, .my-ambition, .my-aspiration, .my-target {
     margin: 20px;
     padding: 20px;
+  }
+
+  .my-ambition {
+    flex-direction: column;
   }
 
   .my-aim-content{
