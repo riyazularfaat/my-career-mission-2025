@@ -1,5 +1,7 @@
 # 🚀💼 The Career Mission 2025
 
+Project live link: https://riyazularfaat.github.io/my-career-mission-2025/
+
 
 ## 🖼️ Sample Preview  
 
