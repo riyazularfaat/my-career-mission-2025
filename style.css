@@ -204,7 +204,7 @@ nav span {
 /* Large screens (Desktops ≥ 1200px) */
 @media (min-width: 1200px) {
   .hero, .reasons, .my-ambition, .my-aspiration, .my-target {
-    margin: 50px auto;
+    margin: 50px;
     padding: 50px;
   }
 
